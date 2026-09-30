@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍏 30 Days of Swift
+# 🍏 journey of Swift
 
 **A daily, hands-on journey from Swift fundamentals to real-world iOS architecture.**
 
@@ -85,8 +85,8 @@ mindmap
 ## 🤝 Connect & Follow the Journey
 
 I document daily learnings and insights across:
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Instagram:** [@YourHandle]
+* **LinkedIn:** [www.linkedin.com/in/vanshdeep-singh-09a492403]
+* **Instagram:** [code.x.builds]
 
 ---
 

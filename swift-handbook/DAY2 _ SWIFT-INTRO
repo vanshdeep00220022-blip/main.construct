@@ -1,0 +1,18 @@
+# Swift Introduction
+
+Swift is a modern, fast, and safe language for building apps across Apple platforms and beyond.
+
+---
+
+## What is Swift?
+
+Swift is a modern, fast, and safe programming language created by Apple.
+
+- Build apps for **iPhone, iPad, Mac, Apple Watch, and Apple TV**.
+- Run on servers (**Linux, Windows, macOS**).
+- Write correct and efficient code using features like **type inference**, **optionals**, **value types**, and **protocol-oriented programming**.
+
+### Example
+
+```swift
+print("Hello, Swift!")
